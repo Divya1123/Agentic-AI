@@ -1,2 +1,18 @@
 .env
 config.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# System
+.DS_Store
+
+# VSCode
+.vscode/
